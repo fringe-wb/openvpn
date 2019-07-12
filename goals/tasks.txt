@@ -1,0 +1,7 @@
+1，配置openvpn实现远程接入
+2，配置openvpn实现三机房互联
+3，配置openvpn实现ha集群
+4，配置openvpn实现ldap认证
+5，配置openvpn实现ssl加密
+...
+未完待续
